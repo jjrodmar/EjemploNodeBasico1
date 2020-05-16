@@ -1,0 +1,7 @@
+1. npm init -y //dentro de la carpeta del proyecto
+2. npm install express --save //npm i express --save //OPCIONAL POR EL PASO DE ABAJO CREO
+3. npm install express mysql
+4. Carpeta src
+5. Dentro de src, la carpeta routes y todos los js necesarios
+6. npm install nodemon -D //para no tener que parar e iniciar el server cada vez que hagamos un cambio
+7. database.js es para conectarme al servidor
